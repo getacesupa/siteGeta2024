@@ -1,42 +1,38 @@
-Twenty by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GETA CESUPA</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        p {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Grupo de Estudos em Tecnologia Assistiva do CESUPA (GETA CESUPA)</h1>
 
+    <p>Bem-vindo ao repositório do site do Grupo de Estudos em Tecnologia Assistiva do Centro Universitário do Pará (CESUPA)!</p>
 
-This is Twenty, a minimal, multi-page responsive site template for HTML5 UP.
+    <h2>Sobre o Projeto</h2>
+    <p>Este projeto foi desenvolvido para criar o site do GETA CESUPA, um grupo de estudos dedicado ao desenvolvimento e pesquisa de soluções tecnológicas voltadas para pessoas com deficiência e em condições de vulnerabilidade.</p>
 
-As the name implies, this is my twentieth (!) design for HTML5 UP. Since the last
-few have been single page affairs, I decided to go with something a bit more conventional
-and threw in four extra page layouts. Beyond that, it's the usual drill: fully responsive,
-built on HTML5/CSS3, and CCA licensed like all my other stuff. Sass sources are also
-included for those of you into that sort of thing (entirely optional).
+    <h2>Tecnologias Utilizadas</h2>
+    <p>O site foi criado utilizando as seguintes tecnologias:</p>
+    <ul>
+        <li><strong>HTML:</strong> Utilizado para estruturar o conteúdo do site.</li>
+        <li><strong>CSS:</strong> Utilizado para estilizar o conteúdo e proporcionar uma melhor experiência visual.</li>
+        <li><strong>JavaScript:</strong> Utilizado para adicionar interatividade e funcionalidades dinâmicas ao site.</li>
+    </ul>
 
-Special thanks to Michael Domaradzki (md.photomerchant.net) for allowing me to use
-his excellent photos in Twenty's demo*.
-
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Michael's work without his explicit permission!)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Michael Domaradzki (md.photomerchant.net)
-			"Night Vision"
-			"At the Station II"
-			"Airchitecture II"
-			"Livewires II"
-			"Midnite Xpress I"
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+</body>
+</html>
